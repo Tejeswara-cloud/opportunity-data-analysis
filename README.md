@@ -1,3 +1,8 @@
+
+
+
+
+<img width="1537" height="692" alt="Screenshot 2026-07-25 175440" src="https://github.com/user-attachments/assets/c89b2a28-0794-40c7-b64a-cf052ceb9e58" />
 **📊 Opportunity Data Analysis**
 **About**
 
