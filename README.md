@@ -75,13 +75,8 @@ K. Tejeswara
 📊 Aspiring Data Analyst
 
 Connect with Me
-
 LinkedIn
-
 https://linkedin.com/in/k-tejeswara
 
 GitHub
-
 https://github.com/Tejeswara-cloud
-
-⭐ If you found this project useful, feel free to star the repository.
