@@ -1,11 +1,13 @@
-📊 Opportunity Data Analysis
-About
+**📊 Opportunity Data Analysis**
+**About**
 
 This repository contains our Exploratory Data Analysis (EDA) Team Project completed during the Excelerate AI-Powered Data Analysis Internship.
 
 As a team, we collaborated to analyze real-world opportunity data using Python, perform data cleaning and exploratory data analysis, develop interactive dashboards, and generate meaningful business insights through data visualization.
+
 **--------------------------------------------------------------------------------------------------------**
-🎯 Internship Objectives
+
+**🎯 Internship Objectives**
 * Understand real-world datasets
 * Data Cleaning
 * Data Validation
@@ -14,8 +16,10 @@ As a team, we collaborated to analyze real-world opportunity data using Python, 
 * Business Insights
 * Professional Documentation
 * Team Collaboration
+  
 **--------------------------------------------------------------------------------------------------------**
-  🛠️ Tech Stack
+
+**🛠️ Tech Stack**
 * Python
 * Pandas
 * NumPy
@@ -25,26 +29,23 @@ As a team, we collaborated to analyze real-world opportunity data using Python, 
 * Power BI
 * Microsoft Excel
 * Git & GitHub
+  
 **--------------------------------------------------------------------------------------------------------**
-🚀 Project Highlights
+
+**🚀 Project Highlights**
 
 ✔ Data Cleaning
-
 ✔ Missing Value Handling
-
 ✔ Duplicate Removal
-
 ✔ Exploratory Data Analysis (EDA)
-
 ✔ Data Visualization
-
 ✔ Interactive Dashboard Design
-
 ✔ Business Insights & Recommendations
-
 ✔ Final Team Presentation
+
 **--------------------------------------------------------------------------------------------------------**
-🤝 Team Contributions
+
+**🤝 Team Contributions**
 Throughout this internship, our team worked together to:
 
 * Collect and understand the dataset
@@ -56,8 +57,10 @@ Throughout this internship, our team worked together to:
 * Generate actionable business insights
 * Prepare project documentation and presentations
 * Collaborate using GitHub for version control
+  
 **--------------------------------------------------------------------------------------------------------**
-💡 Skills Practiced
+
+**💡 Skills Practiced**
 * Data Analysis
 * Data Cleaning
 * Data Visualization
@@ -68,8 +71,9 @@ Throughout this internship, our team worked together to:
 * Problem Solving
 * Team Collaboration
 * Version Control with Git & GitHub
+  
 **--------------------------------------------------------------------------------------------------------**
-📚 Learning Outcomes
+**📚 Learning Outcomes**
 * Data Preprocessing
 * Exploratory Data Analysis (EDA)
 * Dashboard Design
@@ -77,27 +81,34 @@ Throughout this internship, our team worked together to:
 * Storytelling with Data
 * Collaborative Project Development
 * GitHub Project Management
+  
 **--------------------------------------------------------------------------------------------------------**
-  👥 Team
+
+**👥 Team**
 This project was completed as part of the Excelerate AI-Powered Data Analysis Internship by our project team.
 **Team Members**
-K.Tejeswara
-Shreya Mate
-Ifla Ahmad
-V S Sujithraa
-Anam (TL)
-Murli Krishana
-Mahak Rana
-Yagnesh
+1.K.Tejeswara
+2.Shreya Mate
+3.Ifla Ahmad
+4.V S Sujithraa
+5.Anam (TL)
+6.Murli Krishana
+7.Mahak Rana
+8.Yagnesh
+
 **--------------------------------------------------------------------------------------------------------**
-🙏 Acknowledgements
+
+**🙏 Acknowledgements**
 
 We sincerely thank Excelerate for providing the opportunity to work on a real-world data analysis project. This internship enhanced our technical, analytical, and collaborative skills through hands-on experience with data analytics and dashboard development.
+
 **--------------------------------------------------------------------------------------------------------**
-K. Tejeswara
+
+**K. Tejeswara**
 🎓 Computer Science Engineering Student
 📊 Aspiring Data Analyst
-Connect with Me
+
+**Connect with Me**
 
 LinkedIn
 https://linkedin.com/in/k-tejeswara
