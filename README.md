@@ -85,16 +85,18 @@ Throughout this internship, our team worked together to:
 **--------------------------------------------------------------------------------------------------------**
 
 **👥 Team**
+
 This project was completed as part of the Excelerate AI-Powered Data Analysis Internship by our project team.
+
 **Team Members**
-1.K.Tejeswara
-2.Shreya Mate
-3.Ifla Ahmad
-4.V S Sujithraa
-5.Anam (TL)
-6.Murli Krishana
-7.Mahak Rana
-8.Yagnesh
+* 1.K.Tejeswara
+* 2.Shreya Mate
+* 3.Ifla Ahmad
+* 4.V S Sujithraa
+* 5.Anam (TL)
+* 6.Murli Krishana
+* 7.Mahak Rana
+* 8.Yagnesh
 
 **--------------------------------------------------------------------------------------------------------**
 
